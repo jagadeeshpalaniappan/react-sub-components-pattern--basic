@@ -3,6 +3,7 @@ import ReactDOM from "react-dom";
 import Card from "./Card";
 import PrivateCard from "./PrivateCard";
 
+import "bootstrap/dist/css/bootstrap.min.css";
 import "./styles.css";
 
 const CardsContainer = () => {
